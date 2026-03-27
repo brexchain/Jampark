@@ -1,0 +1,7 @@
+{
+  "name": "JamPark Karaoke",
+  "description": "A mobile-first karaoke and jam session app with metronome, chords, and lyrics sync.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
